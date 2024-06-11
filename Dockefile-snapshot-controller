@@ -1,0 +1,1 @@
+FROM sig-storage/snapshot-controller:v6.2.2
