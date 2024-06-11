@@ -1,1 +1,1 @@
-FROM sig-storage/snapshot-controller:v6.2.2
+FROM snapshot-controller:v6.2.2
