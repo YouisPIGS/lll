@@ -1,1 +1,1 @@
-FROM sig-storage/csi-snapshotter:v6.2.2
+FROM csi-snapshotter:v6.2.2
