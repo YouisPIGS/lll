@@ -1,1 +1,1 @@
-FROM nfs-client-provisioner:latest 
+FROM nfs-client-provisioner:v4.0.1
