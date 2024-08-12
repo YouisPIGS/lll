@@ -1,0 +1,1 @@
+FROM kubevirt/virt-operator:v0.44.1
