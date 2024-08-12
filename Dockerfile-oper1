@@ -1,0 +1,1 @@
+FROM quay.io/kubevirt/cdi-operator:v1.47.0
