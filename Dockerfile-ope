@@ -1,1 +1,2 @@
-FROM virt-operator:v0.44.1
+FROM quay.io/kubevirt/virt-api:v1.3.0
+
